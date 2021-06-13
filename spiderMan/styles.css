@@ -1,0 +1,60 @@
+body {
+    background-image: url(/videos/oceanWaves.mp4/)
+    
+}
+
+
+
+
+  
+header {
+    height: 75px;
+    
+}
+
+h1 {
+    
+    background: linear-gradient(to right, #e65c00, #f9d423); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: center;
+    
+}
+
+aside {
+    text-align: center;
+}
+
+img {
+    width: 75px;
+}
+
+.one img {
+    float: left;
+    margin-right: 1rem;
+    margin-bottom: 2px;
+}
+
+.two img{
+    float: right;
+    margin-bottom: 20px;
+    
+}
+
+
+
+.three img{
+    float: left;
+    margin-right: 1rem;
+    margin-bottom: 1px;
+}
+
+.three {
+    clear: right;
+}
+
+/*.bg-image {
+    background-image: url(/images/test.jpg);
+    
+}*/
+
